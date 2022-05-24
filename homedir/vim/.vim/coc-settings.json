@@ -1,0 +1,5 @@
+{
+    "coc.preferences.extensionUpdateCheck": "weekly",
+    "suggest.noselect": false,
+    "suggest.selection": "recentlyUsedByPrefix"
+}
